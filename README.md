@@ -1,6 +1,6 @@
 # Condo Market Local
 
-Marketplace acadêmico para moradores de um condomínio, desenvolvido em Flutter para **Android e web**. Esta versão funciona sem servidor: contas, anúncios, perfis, imagens e conversas ficam no dispositivo ou no navegador em que foram criados.
+Marketplace acadêmico para moradores de um condomínio, aplicativo desenvolvido com Flutter e Dart para **Android e web**. Esta versão funciona sem servidor: contas, anúncios, perfis, imagens e conversas ficam no dispositivo ou no navegador em que foram criados.
 
 A abertura, o login e a página inicial usam a identidade visual e os banners do material `CondoMarket.zip`. A página inicial oferece busca, filtro por categorias, carrossel e acesso aos anúncios.
 
