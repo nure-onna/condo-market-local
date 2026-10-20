@@ -4,6 +4,10 @@ Marketplace acadêmico para moradores de um condomínio, desenvolvido em Flutter
 
 A abertura, o login e a página inicial usam a identidade visual e os banners do material `CondoMarket.zip`. A página inicial oferece busca, filtro por categorias, carrossel e acesso aos anúncios.
 
+## Acessar online
+
+O aplicativo web está publicado em **[nure-onna.github.io/condo-market-local](https://nure-onna.github.io/condo-market-local/)**. O GitHub Pages serve os arquivos estáticos; o app continua guardando contas e anúncios somente no navegador de cada pessoa. Cada atualização na branch `main` compila e publica a versão web automaticamente pelo workflow em `.github/workflows/publicar_web.yml`.
+
 ## Demonstração
 
 O aplicativo cria uma conta local de teste ao iniciar. Os campos de login já vêm preenchidos:
