@@ -1,11 +1,11 @@
 {
-    "name": "ihc_marketplace",
-    "short_name": "ihc_marketplace",
+    "name": "Condo Market",
+    "short_name": "Condo Market",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFFFFF",
+    "theme_color": "#7C4DFF",
+    "description": "Marketplace local do condomínio.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
